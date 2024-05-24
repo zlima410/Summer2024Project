@@ -2,6 +2,7 @@
 ## Assignment 1: [Walkthrough Video](https://www.youtube.com/watch?v=kzShma2bj_g)
     Create a basic implementation of inventory management as a console application. 
     The specifications are:
+    
         The user should be presented with a menu containing two options:
             - Inventory Management
             - Shop
@@ -10,6 +11,7 @@
             - Description
             - Price
             - Id
+        
         The inventory system should also keep track of how many of a given item are available. 
         This can be incorporated into your class or stored separately.
         On the Shop screen, the user should be able to place items in their cart, remove items from their cart, and check out with their cart.
