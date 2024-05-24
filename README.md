@@ -1,5 +1,5 @@
 # Create a Full Stack app using C# and .NET
-Assignment 1: https://www.youtube.com/watch?v=kzShma2bj_g
+## Assignment 1: [Video](https://www.youtube.com/watch?v=kzShma2bj_g)
     Create a basic implementation of inventory management as a console application. The specifications are:
     The user should be presented with a menu containing two options:
         - Inventory Management
