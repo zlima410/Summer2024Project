@@ -6,7 +6,8 @@
         The user should be presented with a menu containing two options:
             - Inventory Management
             - Shop
-        On the Inventory Management screen, users should be able to Create, Read, Update, and Delete items in the inventory. Those items should be represented as a class containing the following state:
+        On the Inventory Management screen, users should be able to Create, Read, Update, and Delete items in the inventory. 
+        Those items should be represented as a class containing the following state:
             - Name
             - Description
             - Price
