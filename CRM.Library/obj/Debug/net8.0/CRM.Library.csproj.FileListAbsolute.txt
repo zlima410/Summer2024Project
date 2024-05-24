@@ -1,0 +1,11 @@
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\bin\Debug\net8.0\CRM.Library.deps.json
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\bin\Debug\net8.0\CRM.Library.dll
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\bin\Debug\net8.0\CRM.Library.pdb
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.AssemblyInfoInputs.cache
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.AssemblyInfo.cs
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.csproj.CoreCompileInputs.cache
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.dll
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\refint\CRM.Library.dll
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\CRM.Library.pdb
+C:\Users\Zachary Lima\source\repos\Summer2024Project\CRM.Library\obj\Debug\net8.0\ref\CRM.Library.dll
